@@ -1,2 +1,2 @@
 # Secure-IoT-Networks
-![GitHub Logo](/images/topo.png)
+![GitHub Logo](/IoT/topo.png)
